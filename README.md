@@ -2,6 +2,8 @@
 
 **Javatari** is a new cross platform Atari 2600 emulator designed for the Web.
 
+https://raw.githubusercontent.com/c4pt000/javatari.js/master/F67BD309-5B52-4783-B02C-D26EFA58CD4C.png
+
 It's great for displaying games running inside webpages. You can launch the emulator and load ROMs with a single link.
 And now you can play Atari 2600 games with touch controls on your Android/iOS device, even when offline!
 Join friends in multiplayer games with the new NetPlay! function.
